@@ -1,2 +1,2 @@
 # sql
-collection of scripts
+collection of tsql and plsql scripts or resources
